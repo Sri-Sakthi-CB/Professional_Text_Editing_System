@@ -4,7 +4,7 @@ import { RxCounterClockwiseClock } from 'react-icons/rx';
 import status from './icons/document-status.svg';
 import move from './icons/move.svg';
 import star from './icons/star.svg';
-import profile from './icons/profile.jpg';
+import profile from './icons/profile.jpeg';
 import home from './icons/docs-home.svg';
 import './DocsbarMenu.css';
 
